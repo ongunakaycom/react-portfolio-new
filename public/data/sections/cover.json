@@ -53,7 +53,7 @@
                 },
                 {
                     "id": 3,
-                    "label": "@ryanbalieiro",
+                    "label": "@ongunakay",
                     "link": {"href": "https://github.com/ongunakaycom", "tooltipString": "see_on_github"},
                     "faIcon": "fa-brands fa-github"
                 }
@@ -81,7 +81,7 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "text": "<p>I’m a {{PHP}} developer with [[over a decade]] of experience, specializing in backend development with some frontend work as well. I also have hands-on experience with C++, C#, Go, and Python in production environments.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs, whether it's building scalable APIs, optimizing system performance, or contributing to full-stack solutions.</p><p>I look forward to collaborating [[with you!]]</p>"
+                            "text": "<p>{{Full Stack & DevOps Software Engineer}} with hands-on experience delivering production-ready web and AI-driven applications. Skilled in integrating LLMs, building AI-assisted features, and implementing automated CI/CD pipelines. Strong focus on scalable architecture, maintainable codebases, and modern cloud-native deployment practices.</p>"
                         },
                         "es": {
                             "text": "<p>Soy un desarrollador de {{PHP}} con [[más de una década]] de experiencia, especializado en desarrollo backend y con algo de experiencia en frontend. También tengo experiencia práctica en entornos de producción con C++, C#, Go y Python.</p><p>Este variado historial me permite adaptarme a una amplia gama de necesidades de proyectos, ya sea construyendo APIs escalables, optimizando el rendimiento de sistemas o contribuyendo a soluciones full-stack.</p><p>¡Espero con interés colaborar [[contigo!]]</p>"
