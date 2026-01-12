@@ -123,7 +123,7 @@
                     "faIcon": "fa-brands fa-facebook",
                     "faIconColors": { "bg": "", "fill": "" },
                     "label": "Ongun Akay",
-                    "link": {"href": "https://facebook.com/profiles/mark.choi.855/default", "tooltipString": "open_website"},
+                    "link": {"href": "https://www.facebook.com/ongun.akay.7/", "tooltipString": "open_website"},
                     "copyToClipboardButton": false,
                     "locales": {
                         "en": {"title": "Facebook"},
@@ -134,8 +134,8 @@
                     "id": 5,
                     "faIcon": "fa-brands fa-instagram",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@codingmark",
-                    "link": {"href": "https://instagram.com/", "tooltipString": "open_website"},
+                    "label": "@ongunakay",
+                    "link": {"href": "https://www.instagram.com/ongunakay", "tooltipString": "open_website"},
                     "copyToClipboardButton": false,
                     "locales": {
                         "en": {"title": "Instagram"},
@@ -146,8 +146,8 @@
                     "id": 6,
                     "faIcon": "fa-brands fa-tiktok",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@markchoi",
-                    "link": {"href": "https://tiktok.com/@markchoi", "tooltipString": "open_website"},
+                    "label": "@ongunakay",
+                    "link": {"href": "https://www.tiktok.com/@ongunakay", "tooltipString": "open_website"},
                     "copyToClipboardButton": false,
                     "locales": {
                         "en": { "title": "TikTok" },
