@@ -122,7 +122,7 @@
                     "id": 4,
                     "faIcon": "fa-brands fa-facebook",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "Mark Choi",
+                    "label": "Ongun Akay",
                     "link": {"href": "https://facebook.com/profiles/mark.choi.855/default", "tooltipString": "open_website"},
                     "copyToClipboardButton": false,
                     "locales": {

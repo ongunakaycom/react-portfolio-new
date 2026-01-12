@@ -1,5 +1,5 @@
 {
-    "name": "Mark Choi",
+    "name": "Ongun Akay",
 
     "profilePictureUrl": "images/pictures/profile-picture.jpg",
     "resumePdfUrl": "",
@@ -10,16 +10,16 @@
 
     "locales": {
         "en": {
-            "localized_name": "Mark Choi",
-            "localized_name_stylized": " [[Mark {{Choi}}]]",
+            "localized_name": "Ongun Akay",
+            "localized_name_stylized": " [[Ongun {{Akay}}]]",
             "status_message_available_for_freelance": "Available for freelance!",
             "roles": [
                 "Backend Developer",
                 "Frontend Developer",
                 "DevOps Engineer",
-                "UX Designer"
+                "Software Engineer"
             ],
-            "name_pronunciation_ipa": "/mark chwe/",
+            "name_pronunciation_ipa": "/ongun akay/",
             "name_pronunciation_audio_url": "audio/english-name-pronunciation.mp3"
         },
         "es": {
