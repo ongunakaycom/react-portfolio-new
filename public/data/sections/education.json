@@ -210,18 +210,18 @@
                     "dateEnd": {"year": 2025, "month": 6},
                     "locales": {
                         "en": {
-                            "title": "{{PhD}} in Computer Science",
-                            "province": "Massachusetts",
-                            "country": "US",
-                            "institution": "Harvard University",
-                            "text": "Currently pursuing a PhD with a focus on [[deep learning]] and its real-world applications, particularly in:",
+                            "title": "{{Bachelor’s Degree}} in Web Design & Front-End Development",
+                            "province": "Turkiye",
+                            "country": "TR",
+                            "institution": "Suleyman Demirel University",
+                            "text": "Built strong foundations in [[software engineering]], front-end development, algorithms, and problem-solving, with hands-on experience in interactive web applications, performance optimization, and maintainable code.",
                             "list": [
-                                "Computer Vision",
-                                "Innovative AI research",
-                                "Developing [[novel algorithms]] for image recognition"
+                                "Front-end development",
+                                "Software engineering",
+                                "Algorithms, and [[problem-solving]]"
                             ],
                             "tags": [
-                                "Deep Learning", "Computer Vision", "AI Research", "Algorithms"
+                                "Web applications", "Maintainable code", "Algorithms"
                             ]
                         },
                         "es": {
