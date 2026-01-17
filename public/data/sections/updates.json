@@ -217,30 +217,30 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Relocating to {{California!}}",
-                            "province": "Ontario",
-                            "country": "Canada",
+                            "title": "Relocating to {{Europe!}}",
+                            "province": "Madrid",
+                            "country": "Spain",
                             "institution": "",
-                            "text": "I’ve recently made the move to California, USA, to explore new opportunities, both professionally and personally. I’m looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what’s ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"
+                            "text": "I’ve recently made the move to Madrid, Spain, to explore new opportunities, both professionally and personally. I’m looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what’s ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"
                         },
                         "es": {
-                            "title": "Mudándome a {{California!}}",
-                            "province": "Ontario",
-                            "country": "Canadá",
+                            "title": "Mudándome a {{Europe!}}",
+                            "province": "Madrid",
+                            "country": "Spain",
                             "institution": "",
                             "text": "Recientemente me he mudado a California, EE.UU., para explorar nuevas oportunidades, tanto profesionales como personales. Estoy deseando descubrir lo que este vibrante estado tiene para ofrecer y abrazar todos los desafíos y experiencias que vienen con este nuevo capítulo de mi vida. ¡Emocionado por lo que está por venir! Mantente atento a las actualizaciones sobre mi viaje y las aventuras que me esperan en el Estado Dorado."
                         },
-                        "fr": {
-                            "title": "Déménagement en {{Californie!}}",
-                            "province": "Ontario",
-                            "country": "Canada",
+                        "de": {
+                            "title": "Déménagement en {{Madrid!}}",
+                            "province": "Madrid",
+                            "country": "Spain",
                             "institution": "",
                             "text": "Je viens de déménager en Californie, aux États-Unis, pour explorer de nouvelles opportunités, tant professionnelles que personnelles. J'ai hâte de découvrir ce que cet État dynamique a à offrir et de relever tous les défis et expériences qui accompagnent ce nouveau chapitre de ma vie. Excité pour ce qui m'attend ! Restez à l'écoute pour des mises à jour sur mon parcours et les aventures qui m'attendent dans l'État d'Or !"
                         },
-                        "ko": {
-                            "title": "{{캘리포니아로 이사!}}",
-                            "province": "온타리오",
-                            "country": "캐나다",
+                        "tr": {
+                            "title": "Relocating to {{Europe!}}",
+                            "province": "Madrid",
+                            "country": "Spain",
                             "institution": "",
                             "text": "최근에 미국 캘리포니아로 이사하여 새로운 직업적, 개인적 기회를 탐색하고 있습니다. 이 활기찬 주가 제공하는 것들을 발견하고, 이 새로운 장에서 오는 모든 도전과 경험을 받아들이는 것이 기대됩니다. 앞으로의 여정과 황금 주에서 기다리는 모험에 대한 업데이트를 기대해 주세요!"
                         }
