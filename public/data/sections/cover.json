@@ -13,13 +13,13 @@
                 "title_long_prefix": "Hola...",
                 "title_long": "Soy {{Ongun Akay!}}"
             },
-            "fr": {
+            "de": {
                 "title_short": "Salut !",
                 "title_short_nav": "À propos",
-                "title_long_prefix": "Salut...",
+                "title_long_prefix": "Hallo...",
                 "title_long": "Je suis {{Ongun Akay !}}"
             },
-            "ko": {
+            "tr": {
                 "title_short": "환영합니다!",
                 "title_short_nav": "소개",
                 "title_long_prefix": "안녕하세요...",
