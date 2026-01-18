@@ -66,8 +66,8 @@
             "locales": {
                 "en": {"title": "{{A little bit}} about me..."},
                 "es": {"title": "{{Un poco}} sobre mí..."},
-                "fr": {"title": "{{Un peu}} à propos de moi..."},
-                "ko": {"title": "저에 {{대해 조금}}..."}
+                "de": {"title": "{{Ein wenig}} über mich..."},
+                "tr": {"title": "{{Hakkımda biraz}}..."}
             },
             "settings": {
                 "order_items_by": "id",
