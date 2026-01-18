@@ -3,7 +3,7 @@
         "locales": {
             "en": {
                 "title_short": "Welcome!",
-                "title_short_nav": "About me",
+                "title_short_nav": "About ",
                 "title_long_prefix": "Hello...",
                 "title_long": "I'm {{Ongun Akay  !}}"
             },
@@ -15,13 +15,13 @@
             },
             "de": {
                 "title_short": "Salut !",
-                "title_short_nav": "À propos",
+                "title_short_nav": "Über mich",
                 "title_long_prefix": "Hallo...",
                 "title_long": "Ich bin {{Ongun Akay !}}"
             },
             "tr": {
-                "title_short": "환영합니다!",
-                "title_short_nav": "소개",
+                "title_short": "Merhaba!",
+                "title_short_nav": "Hakkımda",
                 "title_long_prefix": "Merhaba...",
                 "title_long": "Ben {{Ongun Akay }} !"
             }
