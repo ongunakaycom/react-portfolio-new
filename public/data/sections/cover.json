@@ -67,7 +67,7 @@
                 "en": {"title": "{{A little bit}} about me..."},
                 "es": {"title": "{{Un poco}} sobre mí..."},
                 "de": {"title": "{{Ein wenig}} über mich..."},
-                "tr": {"title": "{{Hakkımda biraz}}..."}
+                "tr": {"title": "{{Hakkımda}}..."}
             },
             "settings": {
                 "order_items_by": "id",
