@@ -5,25 +5,25 @@
                 "title_short": "Welcome!",
                 "title_short_nav": "About me",
                 "title_long_prefix": "Hello...",
-                "title_long": "I'm {{Ongun Akay!}}"
+                "title_long": "I'm {{Ongun Akay  !}}"
             },
             "es": {
                 "title_short": "¡Saludos!",
                 "title_short_nav": "Sobre mí",
                 "title_long_prefix": "Hola...",
-                "title_long": "Soy {{Ongun Akay!}}"
+                "title_long": "Soy {{Ongun Akay  !}}"
             },
             "de": {
                 "title_short": "Salut !",
                 "title_short_nav": "À propos",
                 "title_long_prefix": "Hallo...",
-                "title_long": "Je suis {{Ongun Akay !}}"
+                "title_long": "Ich bin {{Ongun Akay !}}"
             },
             "tr": {
                 "title_short": "환영합니다!",
                 "title_short_nav": "소개",
-                "title_long_prefix": "안녕하세요...",
-                "title_long": "저는 {{최민석}}입니다!"
+                "title_long_prefix": "Merhaba...",
+                "title_long": "Ben {{Ongun Akay  !"
             }
         }
     },
