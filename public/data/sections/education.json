@@ -13,17 +13,17 @@
                 "title_long_prefix": "Esta es mi",
                 "title_long": "{{Formación}} Educativa"
             },
-            "gr": {
+            "de": {
                 "title_short": "Éducation",
                 "title_short_nav": "Éducation",
                 "title_long_prefix": "C'est mon",
                 "title_long": "{{Contexte}} Éducatif"
             },
             "tr": {
-                "title_short": "교육",
-                "title_short_nav": "교육",
-                "title_long_prefix": "이것은 내",
-                "title_long": "{{교육적}} 배경"
+                "title_short": "Eğitim",
+                "title_short_nav": "Eğitim",
+                "title_long_prefix": "Benim",
+                "title_long": "{{Eğitim}} Özgeçmişim"
             }
         }
     },
