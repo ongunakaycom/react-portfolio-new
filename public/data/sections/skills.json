@@ -13,17 +13,17 @@
                 "title_long_prefix": "Explora",
                 "title_long": "Mis {{Habilidades}}"
             },
-            "fr": {
-                "title_short": "Capacités",
-                "title_short_nav": "Capacités",
-                "title_long_prefix": "Explorez",
-                "title_long": "Mes {{Compétences}}"
+            "de": {
+                "title_short": "Fähigkeiten",
+                "title_short_nav": "Fähigkeiten",
+                "title_long_prefix": "Entdecken",
+                "title_long": "Meine {{Skill Set}}"
             },
-            "ko": {
-                "title_short": "스킬",
-                "title_short_nav": "스킬",
-                "title_long_prefix": "이것은 내",
-                "title_long": "{{스킬}}입니다"
+            "tr": {
+                "title_short": "Yetenekler",
+                "title_short_nav": "Yetenekler",
+                "title_long_prefix": "Keşfet",
+                "title_long": "{{Yetenekler}}'im"
             }
         }
     },
