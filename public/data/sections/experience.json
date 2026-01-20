@@ -13,17 +13,17 @@
                 "title_long_prefix": "Resumen de mi",
                 "title_long": "Experiencia {{Laboral}}"
             },
-            "fr": {
-                "title_short": "Expérience",
-                "title_short_nav": "Expérience",
-                "title_long_prefix": "Résumé de mon",
-                "title_long": "Parcours {{Professionel}}"
+            "de": {
+                "title_short": "Erfahrung",
+                "title_short_nav": "Erfahrung",
+                "title_long_prefix": "Zusammenfassung meiner",
+                "title_long": "{{Work}} Erfahrung"
             },
-            "ko": {
-                "title_short": "경험",
-                "title_short_nav": "경험",
-                "title_long_prefix": "이것은 내",
-                "title_long": "{{직업적}} 경험"
+            "tr": {
+                "title_short": "Deneyim",
+                "title_short_nav": "Deneyim",
+                "title_long_prefix": "Benim",
+                "title_long": "{{İş}} Deneyimimin Özeti"
             }
         }
     },
