@@ -203,14 +203,14 @@
                 },
                 {
                     "id": 4,
-                    "img": "images/pictures/timeline-place-harvard.png",
+                    "img": "images/pictures/timeline-place-sdu.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2022, "month": 9},
-                    "dateEnd": {"year": 2025, "month": 6},
+                    "dateStart": {"year": 2005, "month": 9},
+                    "dateEnd": {"year": 2010, "month": 6},
                     "locales": {
                         "en": {
-                            "title": "{{Bachelor’s Degree}} in Web Design & Front-End Development",
+                            "title": "{{Bachelor’s Degree}} in Design & Development",
                             "province": "Turkiye",
                             "country": "TR",
                             "institution": "Suleyman Demirel University",
@@ -225,43 +225,47 @@
                             ]
                         },
                         "es": {
-                            "title": "{{Doctorado}} en Ciencias de la Computación",
-                            "province": "Massachusetts",
-                            "country": "EE. UU.",
-                            "institution": "Universidad de Harvard",
-                            "text": "Actualmente cursando un doctorado con enfoque en [[aprendizaje profundo]] y sus aplicaciones en el mundo real, especialmente en:",
+                            "title": "Licenciatura en Diseño y Desarrollo",
+                            "province": "Turquía",
+                            "country": "TR",
+                            "institution": "Universidad Suleyman Demirel",
+                            "text": "Construí bases sólidas en [[ingeniería de software]], desarrollo front-end, algoritmos y resolución de problemas, con experiencia práctica en aplicaciones web interactivas, optimización del rendimiento y código mantenible.",
                             "list": [
-                                "Visión por computadora",
-                                "Investigación innovadora en IA",
-                                "Desarrollo de [[nuevos algoritmos]] para el reconocimiento de imágenes"
+                                "Desarrollo front-end",
+                                "Ingeniería de software",
+                                "Algoritmos y [[resolución de problemas]]"
                             ],
-                            "tags": ["Aprendizaje profundo", "Visión por computadora", "Investigación en IA", "Algoritmos"]
+                            "tags": [
+                                "Aplicaciones web", "Código mantenible", "Algoritmos"
+                            ]
                         },
-                        "fr": {
-                            "title": "{{Doctorat}} en informatique",
-                            "province": "Massachusetts",
-                            "country": "États-Unis",
-                            "institution": "Université Harvard",
-                            "text": "Actuellement en doctorat, avec une spécialisation en [[deep learning]] et ses applications concrètes, notamment dans :",
+                        "de": {
+                            "title": "{{Bachelorabschluss}} in Design & Entwicklung",
+                            "province": "Türkei",
+                            "country": "TR",
+                            "institution": "Süleyman-Demirel-Universität",
+                            "text": "Solide Grundlagen in [[Softwaretechnik]], Front-End-Entwicklung, Algorithmen und Problemlösung aufgebaut, mit praktischer Erfahrung in interaktiven Webanwendungen, Leistungsoptimierung und wartbarem Code.",
                             "list": [
-                                "La vision par ordinateur",
-                                "La recherche innovante en IA",
-                                "Le développement de [[nouveaux algorithmes]] pour la reconnaissance d’images"
+                                "Front-End-Entwicklung",
+                                "Softwaretechnik",
+                                "Algorithmen und [[Problemlösung]]"
                             ],
-                            "tags": ["Apprentissage profond", "Vision par ordinateur", "Recherche en IA", "Algorithmes"]
+                            "tags": [
+                                "Webanwendungen", "Wartbarer Code", "Algorithmen"
+                            ]
                         },
-                        "ko": {
-                            "title": "컴퓨터 과학 {{박사}}",
-                            "province": "매사추세츠",
-                            "country": "미국",
-                            "institution": "하버드 대학교",
-                            "text": "[[딥러닝]] 및 그 실생활 적용에 중점을 둔 박사 과정을 진행 중이며, 주요 연구 분야는 다음과 같습니다:",
+                        "tr": {
+                            "title": "{{Lisans Derecesi}} Tasarım ve Geliştirme",
+                            "province": "Turkiye",
+                            "country": "TR",
+                            "institution": "Suleyman Demirel Universit",
+                            "text": "[[Yazılım mühendisliği]], ön uç geliştirme, algoritmalar ve problem çözme konularında sağlam temeller oluşturdum; etkileşimli web uygulamaları, performans optimizasyonu ve sürdürülebilir kod konularında uygulamalı deneyime sahibim.",
                             "list": [
-                                "컴퓨터 비전",
-                                "혁신적인 인공지능 연구",
-                                "이미지 인식을 위한 새로운 알고리즘 개발"
+                                "UI Tasarım",
+                                "Web Geliştirme",
+                                "[[Algoritma]]"
                             ],
-                            "tags": ["딥러닝", "컴퓨터 비전", "AI 연구", "알고리즘"]
+                            "tags": ["Tasarım", "Geliştirme", "Algorithma"]
                         }
                     }
                 }
