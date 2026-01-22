@@ -54,13 +54,13 @@
                             "title": "{{Diseño}} de websites",
                             "text": "¡Puedo hacer realidad tus mejores ideas y hacerlas reales!"
                         },
-                        "fr": {
-                            "title": "{{Conception}} de websites",
-                            "text": "Je peux donner vie à vos meilleures idées et les rendre réelles !"
+                        "de": {
+                            "title": "{{Website}} design",
+                            "text": "Ich kann Ihre besten Ideen zum Leben erwecken und sie Wirklichkeit werden lassen!"
                         },
-                        "ko": {
-                            "title": "{{웹사이트}} 디자인",
-                            "text": "당신의 최고의 아이디어를 실현하고 현실로 만들 수 있습니다!"
+                        "tr": {
+                            "title": "{{Website}} tasarımı",
+                            "text": "En iyi fikirlerinizi hayata geçirebilir ve onları gerçeğe dönüştürebilirim!"
                         }
                     }
                 },
@@ -80,13 +80,13 @@
                             "title": "Gestión de {{bases de datos}}",
                             "text": "¡Puedo manejar sus datos de manera efectiva y eficiente!"
                         },
-                        "fr": {
-                            "title": "Gestion de {{bases de données}}",
-                            "text": "Je peux gérer vos données de manière efficace et efficiente !"
+                        "de": {
+                            "title": "{{Datenbank}}-Management",
+                            "text": "Ich kann Ihre Daten effektiv und effizient verwalten!"
                         },
-                        "ko": {
-                            "title": "{{데이터베이스}} 관리",
-                            "text": "데이터를 효과적이고 효율적으로 처리할 수 있습니다. 최고의 관행을 사용하여 데이터베이스를 관리합니다!"
+                        "tr": {
+                            "title": "{{Veritabanı}} yönetimi",
+                            "text": "Verilerinizi etkili ve verimli bir şekilde yönetebilirim!"
                         }
                     }
                 },
@@ -106,13 +106,13 @@
                             "title": "Creación de {{aplicaciones}}",
                             "text": "¡Puedo hacer aplicaciones creativas e innovadoras!"
                         },
-                        "fr": {
-                            "title": "Création {{d'applications}}",
-                            "text": "Je peux créer des applications créatives et innovantes !"
+                        "de": {
+                            "title": "Erstellung von {{Apps}}",
+                            "text": "Ich erstelle kreative und innovative Apps!"
                         },
-                        "ko": {
-                            "title": "{{앱}} 제작",
-                            "text": "창의적이고 혁신적인 앱을 만들 수 있습니다!"
+                        "tr": {
+                        "title": "{{Uygulama}} geliştirme",
+                        "text": "Yaratıcı ve yenilikçi uygulamalar geliştirebilirim!"
                         }
                     }
                 },
@@ -132,13 +132,13 @@
                             "title": "APIs {{REST}}",
                             "text": "¡Puedo construir servicios API!"
                         },
-                        "fr": {
-                            "title": "APIs {{REST}}",
-                            "text": "Je peux créer des services API !"
+                        "de": {
+                            "title": "{{REST}} APIs",
+                            "text": "Ich kann API-Dienste erstellen!"
                         },
-                        "ko": {
-                            "title": "{{REST}} API",
-                            "text": "API 서비스를 구축할 수 있습니다!"
+                        "tr": {
+                            "title": "{{REST}} API'leri",
+                            "text": "API servisleri oluşturabilirim!"
                         }
                     }
                 },
@@ -158,13 +158,13 @@
                             "title": "{{Seguridad}} Informática",
                             "text": "¡La seguridad es mi segundo nombre!"
                         },
-                        "fr": {
-                            "title": "{{Sécurité}} Informatique",
-                            "text": "La sécurité est mon deuxième prénom !"
+                        "de": {
+                            "title": "Informations{{sicherheit}}",
+                            "text": "Sicherheit ist mein zweiter Vorname!"
                         },
-                        "ko": {
-                            "title": "{{정보}} 보안",
-                            "text": "보안은 내 중간 이름입니다!"
+                        "tr": {
+                            "title": "{{Bilgi}} Güvenliği",
+                            "text": "Güvenlik benim işimin adı!"
                         }
                     }
                 }
@@ -177,8 +177,8 @@
             "locales": {
                 "en": {"title": "Backend Stack"},
                 "es": {"title": "Stack de Backend"},
-                "fr": {"title": "Stack Backend"},
-                "zh": {"title": "后端技术栈"}
+                "de": {"title": "Backend-Stack"},
+                "tr": {"title": "Backend Teknolojileri"}
             },
             "settings": {
                 "max_items_per_row": 3,
@@ -204,11 +204,11 @@
                         "es": {
                             "text": "Desarrollador certificado por la Fundación Node.js."
                         },
-                        "fr": {
-                            "text": "Développeur certifié par la Node.js Foundation."
+                        "de": {
+                            "text": "Zertifizierter Entwickler der Node.js Foundation."
                         },
-                        "ko": {
-                            "text": "Node.js 재단 인증 개발자."
+                        "tr": {
+                            "text": "Node.js Vakfı tarafından sertifikalı geliştirici."
                         }
                     }
                 },
