@@ -592,8 +592,8 @@
             "locales": {
                 "en": {"title": "Languages"},
                 "es": {"title": "Idiomas"},
-                "fr": {"title": "Langues"},
-                "zh": {"title": "语言"}
+                "de": {"title": "Fremdsprachenkenntnisse"},
+                "tr": {"title": "Yabancı Dil Yetenekleri"}
             },
             "settings": {
                 "max_items_per_row": 1,
@@ -621,43 +621,43 @@
                             "text": "Hablante nativo con excelentes habilidades de comunicación y escritura.",
                             "level": "Nativo"
                         },
-                        "fr": {
-                            "title": "Anglais",
-                            "text": "Locuteur natif avec d'excellentes compétences en communication et en rédaction.",
-                            "level": "Natif"
+                        "de": {
+                            "title": "Deutsch",
+                            "text": "Muttersprachler mit ausgezeichneten Kommunikations- und Schreibfähigkeiten.",
+                            "level": "Muttersprache"
                         },
-                        "ko": {
-                            "title": "영어",
-                            "text": "탁월한 의사소통 및 작문 능력을 갖춘 원어민.",
-                            "level": "원어민"
+                        "tr": {
+                            "title": "Türkçe",
+                            "text": "Mükemmel iletişim ve yazma becerilerine sahip ana dil konuşuru.",
+                            "level": "Ana dil"
                         }
                     }
                 },
                 {
                     "id": 2,
-                    "img": "images/flags/fr.png",
+                    "img": "images/flags/es.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "date": {"year": null, "month": null},
                     "percentage": null,
                     "locales": {
                         "en": {
-                            "title": "French",
+                            "title": "Spanish",
                             "text": "Fluent in both spoken and written French; confident in professional communication.",
                             "level": "Fluent"
                         },
                         "es": {
-                            "title": "Francés",
+                            "title": "Espanol",
                             "text": "Fluido en francés hablado y escrito; seguro en la comunicación profesional.",
                             "level": "Fluido"
                         },
-                        "fr": {
-                            "title": "Français",
+                        "de": {
+                            "title": "Spanisch",
                             "text": "Fluent en français parlé et écrit ; confiant dans la communication professionnelle.",
                             "level": "Courant"
                         },
-                        "ko": {
-                            "title": "프랑스어",
+                        "tr": {
+                            "title": "İspanyolca",
                             "text": "구어 및 서면 프랑스어에 능통; 전문적인 의사소통에 자신감이 있습니다.",
                             "level": "유창함"
                         }
