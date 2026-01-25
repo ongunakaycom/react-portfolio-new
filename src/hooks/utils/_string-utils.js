@@ -133,11 +133,17 @@ export const _stringUtils = {
         if(!string)
             return ""
 
-        return String(string).replace(/<[^>]*>/g, '')
+        let result = String(string)
+            .replace(/<[^>]*>/g, '')
             .replace(/&nbsp;/gi, ' ')
             .replace(/&quot;/gi, '"')
             .replace(/&#39;/gi, "'")
             .replace(/&amp;/gi, '&')
+
+        // Ensure no residual tag delimiters remain after entity decoding
+        result = result.replace(/[<>]/g, '')
+
+        return result
     },
 
     /**
