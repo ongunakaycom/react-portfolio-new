@@ -52,8 +52,8 @@
                             "country": "Remote",
                             "institution": "Meta",
                             "text": "Successfully completed an intensive Professional Certificate program with a strong emphasis on [[Back-End development]], where I gained comprehensive, hands-on experience in building dynamic and scalable web applications.",
-                            "list": [],
-                            "tags": []
+                            "list": ["Back-end development"],
+                            "tags": ["Back-end development"]
                         },
                         "es": {
                             "title": "Meta {{Certificado Profesional}} de Desarrollador Back-End",
@@ -61,7 +61,8 @@
                             "country": "Remoto",
                             "institution": "Meta",
                             "text": "Completé con éxito un programa intensivo de Certificado Profesional con un fuerte enfoque en el [[desarrollo Back-End]], donde adquirí una experiencia práctica y completa en la creación de aplicaciones web dinámicas y escalables.",
-                            "list": []
+                            "list": ["Back-end development"],
+                            "tags": ["Back-end development"]
                         },
                         "de": {
                             "title": "{{Meta}} Back-End-Entwickler-Berufszertifikat",
@@ -69,7 +70,8 @@
                             "country": "À distance",
                             "institution": "Meta",
                             "text": "Ich habe ein intensives Berufszertifikatsprogramm mit starkem Schwerpunkt auf der [[Back-End-Entwicklung]] erfolgreich abgeschlossen und dabei umfassende praktische Erfahrung in der Entwicklung dynamischer und skalierbarer Webanwendungen gesammelt.",
-                            "list": []
+                            "list": ["Back-end development"],
+                            "tags": ["Back-end development"]
                         },
                         "tr": {
                             "title": "Meta Back-End Geliştirici {{Profesyonel Sertifikası}}",
@@ -77,7 +79,8 @@
                             "country": "Remote",
                             "institution": "Meta",
                             "text": "[[Back-End geliştirme]] alanına güçlü bir vurgu yapan yoğun bir Profesyonel Sertifika programını başarıyla tamamladım ve bu süreçte dinamik ve ölçeklenebilir web uygulamaları geliştirme konusunda kapsamlı, uygulamalı deneyim edindim.",
-                            "list": []
+                            "list": ["Back-end development"],
+                             "tags": ["Back-end development"]
                         }
                     }
                 },
@@ -95,8 +98,8 @@
                             "country": "Remote",
                             "institution": "Meta",
                             "text": "Successfully completed an intensive Professional Certificate program with a strong emphasis on [[Front-End development]], where I gained comprehensive, hands-on experience in building dynamic and scalable web applications.",
-                            "list": [],
-                            "tags": []
+                            "list": ["Front-end development"],
+                            "tags": ["Web applications"]
                         },
                         "es": {
                             "title": "{{Certificado Profesional}} de Desarrollador Front-End de Meta",
@@ -104,7 +107,8 @@
                             "country": "Remoto",
                             "institution": "Meta",
                             "text": "Completé con éxito un programa intensivo de Certificado Profesional con un fuerte enfoque en el [[desarrollo Front-End]], donde adquirí una experiencia práctica y completa en la creación de aplicaciones web dinámicas y escalables.",
-                            "list": []
+                            "list": ["Front-end development"],
+                             "tags": ["Web applications"]
                         },
                         "de": {
                             "title": "{{Meta}} Front-End-Entwickler-Berufszertifikat",
@@ -112,7 +116,8 @@
                             "country": "À distance",
                             "institution": "Meta",
                             "text": "Ich habe ein intensives Berufszertifikatsprogramm mit starkem Fokus auf die [[Front-End-Entwicklung]] erfolgreich abgeschlossen und dabei umfassende praktische Erfahrung in der Entwicklung dynamischer und skalierbarer Webanwendungen gesammelt.",
-                            "list": []
+                            "list": [],
+                             "tags": ["Web applications"]
                         },
                         "tr": {
                             "title": "Meta Front-End Geliştirici {{Profesyonel Sertifikası}}",
@@ -120,7 +125,8 @@
                             "country": "Remote",
                             "institution": "Meta",
                             "text": "[[Front-End geliştirme]] alanına güçlü bir odaklanma içeren yoğun bir Profesyonel Sertifika programını başarıyla tamamladım ve bu süreçte dinamik ve ölçeklenebilir web uygulamaları geliştirme konusunda kapsamlı, uygulamalı deneyim kazandım.",
-                            "list": []
+                            "list": ["Front-end development"],
+                             "tags": ["Web applications"]
                         }
                     }
                 },
