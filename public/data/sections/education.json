@@ -38,6 +38,49 @@
                 "order_items_sort": "desc"
             },
             "items": [
+                    {
+                    "id": 1,
+                    "img": "images/pictures/timeline-place-meta-backend.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2025, "month": 1},
+                    "dateEnd": {"year": 2025, "month": 8},
+                    "locales": {
+                        "en": {
+                            "title": "Meta Back-End Developer {{Professional Certificate}}",
+                            "province": "",
+                            "country": "Remote",
+                            "institution": "Meta",
+                            "text": "Successfully completed an intensive Professional Certificate program with a strong emphasis on [[Back-End development]], where I gained comprehensive, hands-on experience in building dynamic and scalable web applications.",
+                            "list": [],
+                            "tags": []
+                        },
+                        "es": {
+                            "title": "Meta {{Certificado Profesional}} de Desarrollador Back-End",
+                            "province": "",
+                            "country": "Remoto",
+                            "institution": "Meta",
+                            "text": "Completé con éxito un programa intensivo de Certificado Profesional con un fuerte enfoque en el [[desarrollo Back-End]], donde adquirí una experiencia práctica y completa en la creación de aplicaciones web dinámicas y escalables.",
+                            "list": []
+                        },
+                        "de": {
+                            "title": "{{Meta}} Back-End-Entwickler-Berufszertifikat",
+                            "province": "",
+                            "country": "À distance",
+                            "institution": "Meta",
+                            "text": "Ich habe ein intensives Berufszertifikatsprogramm mit starkem Schwerpunkt auf der [[Back-End-Entwicklung]] erfolgreich abgeschlossen und dabei umfassende praktische Erfahrung in der Entwicklung dynamischer und skalierbarer Webanwendungen gesammelt.",
+                            "list": []
+                        },
+                        "tr": {
+                            "title": "Meta Back-End Geliştirici {{Profesyonel Sertifikası}}",
+                            "province": "",
+                            "country": "Remote",
+                            "institution": "Meta",
+                            "text": "[[Back-End geliştirme]] alanına güçlü bir vurgu yapan yoğun bir Profesyonel Sertifika programını başarıyla tamamladım ve bu süreçte dinamik ve ölçeklenebilir web uygulamaları geliştirme konusunda kapsamlı, uygulamalı deneyim edindim.",
+                            "list": []
+                        }
+                    }
+                },
                 {
                     "id": 2,
                     "img": "images/pictures/timeline-place-meta.png",
@@ -82,7 +125,7 @@
                     }
                 },
                 {
-                    "id": 1,
+                    "id": 3,
                     "img": "images/pictures/timeline-place-sdu.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
