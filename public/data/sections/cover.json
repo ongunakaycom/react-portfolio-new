@@ -114,27 +114,27 @@
             "items": [
                 {
                     "id": 1,
-                    "label": "Anita Bath",
-                    "link": {"href": "https://linkedin.com", "tooltipString": "open_website"},
-                    "img": "images/pictures/testimonial-person-female-1.png",
+                    "label": "Özgün Akay",
+                    "link": {"href": "https://www.linkedin.com/in/ozgunakay", "tooltipString": "open_website"},
+                    "img": "images/pictures/testimonial-person-male-1.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "CEO at [[SalesForce]]",
-                            "text": "Working with Mark was a truly [[transformative experience]]. His outstanding programming skills and collaborative spirit not only elevated the quality of our project but also brought a renewed sense of motivation and purpose to us."
+                            "title": "CRM & Marketing [[Specialist]]",
+                            "text": "He is not only a wise and responsible co-worker but also an inspiring [[Developer]]. Ongun is an energetic team player. Thanks to interpersonal skills he has great relations with both company clients and potential customers. Makes the impossible possible. "
                         },
                         "es": {
-                            "title": "CEO en [[SalesForce]]",
-                            "text": "Trabajar con Mark fue una [[experiencia transformadora]]. Su gran habilidad para programar y su espíritu colaborativo mejoraron el proyecto y nos devolvieron la motivación y el propósito."
+                            "title": "Especialista en [[CRM y Marketing]]",
+                            "text": "No solo es un compañero de trabajo sabio y responsable, sino también un [[Developer]] inspirador. Ongun es un jugador de equipo lleno de energía. Gracias a sus habilidades interpersonales, mantiene excelentes relaciones tanto con los clientes de la empresa como con los clientes potenciales. Hace posible lo imposible."
                         },
-                        "fr": {
-                            "title": "PDG de [[SalesForce]]",
-                            "text": "Travailler avec Mark fut une [[expérience transformante]]. Ses compétences en programmation et son esprit d’équipe ont élevé le projet et ravivé notre motivation et notre but."
+                        "de": {
+                            "title": "CRM- und [[Marketing-Spezialist]]",
+                            "text": "Er ist nicht nur ein weiser und verantwortungsbewusster Kollege, sondern auch ein inspirierender [[Developer]]. Ongun ist ein energiegeladener Teamplayer. Dank seiner zwischenmenschlichen Fähigkeiten pflegt er hervorragende Beziehungen sowohl zu den Kunden des Unternehmens als auch zu potenziellen Kunden. Er macht das Unmögliche möglich."
                         },
-                        "ko": {
-                            "title": "세일즈포스 CEO",
-                            "text": "Mark와 함께한 시간은 [[변화의 경험]]이었습니다. 그의 뛰어난 프로그래밍 실력과 협업 정신은 프로젝트 품질을 높이고 우리에게 새로운 동기를 불어넣었습니다."
+                        "tr": {
+                            "title": "[[CRM]] ve Pazarlama Uzmanı",
+                            "text": "O, yalnızca bilge ve sorumluluk sahibi bir iş arkadaşı değil, aynı zamanda ilham verici bir [[Developer]]’dır. Ongun, enerjik bir takım oyuncusudur. Kişilerarası becerileri sayesinde hem şirket müşterileriyle hem de potansiyel müşterilerle çok iyi ilişkiler kurar. İmkânsızı mümkün kılar."
                         }
                     }
                 },
