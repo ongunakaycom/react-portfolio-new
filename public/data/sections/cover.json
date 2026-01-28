@@ -192,27 +192,27 @@
                 },
                 {
                     "id": 4,
-                    "label": "Chris P. Bacon",
-                    "link": {"href": "https://dribbble.com", "tooltipString": "open_website"},
+                    "label": "Peter Kovacs Rosenbluth",
+                    "link": {"href": "https://www.linkedin.com/in/peterkrosenbluth", "tooltipString": "open_website"},
                     "img": "images/pictures/testimonial-person-male-2.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "Creative Director at [[Dribbble]]",
-                            "text": "Mark Choi's [[attention to detail]] and his [[innovative thinking]] brought a fresh perspective to our whole design process! Simply amazing!"
+                            "title": "Purchasing [[Project Manager]]",
+                            "text": "Ongun is the right SEO master for you, if you want to have a powerful website and if you need internet marketing service, I can clearly advice Mr. Akay."
                         },
                         "es": {
-                            "title": "Director Creativo en [[Dribbble]]",
-                            "text": "La [[atención al detalle]] y el [[pensamiento innovador]] de Mark Choi aportaron una perspectiva fresca a todo nuestro proceso de diseño. ¡Simplemente increíble!"
+                            "title": "Jefe de Proyectos de Compras [[Project Manager]]",
+                            "text": "Ongun es el maestro de SEO adecuado para ti si quieres tener un sitio web potente y necesitas servicios de marketing en internet. Puedo recomendar claramente al Sr. Akay."
                         },
-                        "fr": {
-                            "title": "Directeur Créatif chez [[Dribbble]]",
-                            "text": "L’[[attention aux détails]] et la [[pensée innovante]] de Mark Choi ont apporté une perspective nouvelle à tout notre processus de design ! Simplement incroyable !"
+                        "de": {
+                            "title": "Einkaufs-[[Projektleiter]]",
+                            "text": "Ongun ist der richtige SEO-Experte für Sie, wenn Sie eine leistungsstarke Website haben möchten und Internet-Marketing-Dienstleistungen benötigen. Ich kann Herrn Akay eindeutig empfehlen."
                         },
-                        "ko": {
-                            "title": "[[Dribbble]] 크리에이티브 디렉터",
-                            "text": "마크 최의 [[세심한 배려]]와 [[혁신적인 사고]]가 전체 디자인 과정에 신선한 시각을 가져왔습니다! 정말 놀랍습니다!"
+                        "tr": {
+                            "title": "Satın Alma [[Proje Yöneticisi]]",
+                            "text": "Güçlü bir web sitesine sahip olmak ve internet pazarlama hizmetine ihtiyaç duymak istiyorsanız, Ongun sizin için doğru SEO ustasıdır. Sayın Akay’ı açıkça tavsiye edebilirim."
                         }
                     }
                 }
