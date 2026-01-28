@@ -116,7 +116,7 @@
                     "id": 1,
                     "label": "Özgün Akay",
                     "link": {"href": "https://www.linkedin.com/in/ozgunakay", "tooltipString": "open_website"},
-                    "img": "images/pictures/testimonial-person-male-1.png",
+                    "img": "images/pictures/testimonial-person-male-2.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
@@ -140,27 +140,27 @@
                 },
                 {
                     "id": 2,
-                    "label": "Lou Natic",
-                    "link": {"href": "https://github.com", "tooltipString": "open_website"},
+                    "label": "Muhammad Khalid",
+                    "link": {"href": "https://www.linkedin.com/in/mrkhalid", "tooltipString": "open_website"},
                     "img": "images/pictures/testimonial-person-male-1.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "Lead Developer at [[GitHub]]",
-                            "text": "Having Mark on our team was an invaluable asset. His [[deep programming insights and mentorship]] not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
+                            "title": "[[Digital Marketing]] Specialist",
+                            "text": "He is very talented and his ability to discover new trends in SEO is hard to match in this industry. He has been very successful at [[managing several different projects]] at a time."
                         },
                         "es": {
-                            "title": "Desarrollador Principal en [[GitHub]]",
-                            "text": "Tener a Mark fue un recurso invaluable. Sus [[profundos conocimientos y mentoría]] mejoraron nuestros proyectos y nos dieron confianza para afrontar cualquier desafío con creatividad."
+                            "title": "[[Digital Marketing]] Specialist",
+                            "text": "Es muy talentoso y su capacidad para descubrir nuevas tendencias en SEO es difícil de igualar en este sector. Ha tenido mucho éxito en [[gestionar varios proyectos diferentes]] al mismo tiempo."
                         },
-                        "fr": {
-                            "title": "Développeur Principal chez [[GitHub]]",
-                            "text": "La présence de Mark fut un atout inestimable. Ses [[connaissances en programmation et son mentorat]] ont renforcé nos projets et notre capacité à relever les défis avec assurance."
+                        "de": {
+                            "title": "[[Digital Marketing]] Specialist",
+                            "text": "Er ist sehr talentiert, und seine Fähigkeit, neue SEO-Trends zu erkennen, ist in dieser Branche kaum zu übertreffen. Er war sehr erfolgreich darin, [[mehrere unterschiedliche Projekte gleichzeitig zu managen]]."
                         },
-                        "ko": {
-                            "title": "[[GitHub]] 수석 개발자",
-                            "text": "Mark는 소중한 자산이었습니다. 그의 [[깊은 프로그래밍 통찰력과 멘토링]]은 프로젝트를 향상시키고 도전을 자신감과 창의성으로 해결할 수 있게 해주었습니다."
+                        "tr": {
+                            "title": "[[Digital Marketing]] Specialist",
+                            "text": "Oldukça yeteneklidir ve SEO alanındaki yeni trendleri keşfetme becerisi bu sektörde eşine az rastlanır. Aynı anda [[birden fazla farklı projeyi yönetme]] konusunda çok başarılıdır."
                         }
                     }
                 },
